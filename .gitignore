@@ -1,0 +1,4 @@
+# Directories and Aseprite files
+bin/
+obj/
+*.aseprite
